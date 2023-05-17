@@ -1,7 +1,4 @@
-<div style="font-family: monospace;width:300px">
-  Hello 👋 I'm a bestselling technical writer & game developer who also 
-builds community tools for independent publishers and game makers.
-  </div>
+Writer, reader, burrito-eater
   
 - [Play my games](https://jesselawson.itch.io/existence-simulator)
 - [Read my blog](https://jesselawson.org)
