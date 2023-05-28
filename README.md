@@ -1,8 +1,4 @@
-Writer, reader, burrito-eater
-  
-- [Play my games](https://jesselawson.itch.io/existence-simulator)
-- [Read my blog](https://jesselawson.org)
-- [Follow me on Mastodon](https://tech.lgbt/@jesse)
+Technical writer, editor, and teacher.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jesselawson&show_icons=true&include_all_commits=true&border_radius=5">
