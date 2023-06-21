@@ -1,4 +1,4 @@
-Technical writer, editor, and teacher.
+https://jesselawson.org
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jesselawson&show_icons=true&include_all_commits=true&border_radius=5">
