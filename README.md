@@ -1,18 +1,8 @@
-Hello 👋🏼 I'm Jesse. 
+Building something [I've always wanted to build](https://teamlanes.com).
 
-I like to:
-
-🏳️‍🌈 experiment across software, music, and writing, exploring how 
-intentional design shapes both creative expression and audience experience;
-
-⌨️ build, talk, and write about developer affordances (APIs, 
-SDKs, CLIs, Docs, etc);
-
-🍳 cook.
-
-**Other places to find my work**:
+**Other places to find me**:
 - [LinkedIn](https://linkedin.com/in/jesselawson)
-- [NullNotes](https://nullnotes.com), for a portfolio of software, music, technical writing, & fiction
 - [Spotify](https://open.spotify.com/artist/0JvyvvFS32tdn81gGsXhWc), for my music as 'Galactic Shipping Company'
+- [NullNotes](https://nullnotes.com)
 - [Lawsonry](https://lawsonry.com), for essays on social technology
-- [BlueSky](https://bsky.app/profile/jesse.lawsonry.com), for random rants and goofery
+- [BlueSky](https://bsky.app/profile/jesse.lawsonry.com)
